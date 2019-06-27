@@ -22,7 +22,7 @@ description: A virtual proof that I'm awesome
 navbar-links:
   Home: "index"
   Publications: "publications"
-  Project: "project"
+  Project: "projects"
   Resume: "CV.pdf"
   
 
