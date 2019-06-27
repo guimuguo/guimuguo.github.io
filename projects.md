@@ -30,7 +30,7 @@ title: projects
        <p class="media-heading">
           <strong>Shanghai Traffic Safety Management System Development, Tongji University</strong><br />
           Dec, 2015 - June, 2017<br />
-          Built a real-time traffic data analytic system, including:
+          Built a real-time traffic data analytic system, including:<br />
             - prediction of crash probability for every section of Shanghai highway.<br />
             - real-time traffic volume of every section of Shanghai highway through analyzing loop detector traffic data.<br />
             -prediction of the urban road length affected by crashes. (under study)<br />
