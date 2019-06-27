@@ -13,6 +13,17 @@ and <a href="https://dblp.uni-trier.de/pers/hd/g/Guo:Guimu" target="_blank">DBLP
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
+          <strong>Parallel Clique-like Subgraph Counting and Listing
+</strong><br />
+          Yi Yang, Da Yan, Shuigeng Zhou and <b>Guimu Guo</b><br />
+          ER 2019 – 38th International Conference on Conceptual Modeling<br />
+          [comment]: <> (<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8731736">[PDF]</a> <br />)
+       </p>
+    </div>
+</div>
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
           <strong>Scalable De Novo Genome Assembly Using a Pregel-Like Graph-Parallel System.
 </strong><br />
           <b>Guimu Guo</b>, Hongzhi Chen, Da Yan, James Cheng, Jake Y. Chen, Zechen Chong<br />
