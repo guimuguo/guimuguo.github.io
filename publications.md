@@ -46,6 +46,7 @@ and <a href="https://dblp.uni-trier.de/pers/hd/g/Guo:Guimu" target="_blank">DBLP
 </strong><br />
           Yi Yang, Da Yan, Shuigeng Zhou and <b>Guimu Guo</b><br />
           ER 2019 – 38th International Conference on Conceptual Modeling<br />
+          <a href="https://info.cs.uab.edu/yanda/papers/er_clique.pdf">[PDF]</a> <br />
        </p>
     </div>
 </div>
