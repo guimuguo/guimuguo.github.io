@@ -13,6 +13,35 @@ and <a href="https://dblp.uni-trier.de/pers/hd/g/Guo:Guimu" target="_blank">DBLP
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
+          <strong>Realistic Transport Simulation: Tackling the Small Data Challenge with Open Data</strong><br />
+          <b>Guimu Guo</b>, Jalal Majed Khalil, Da Yan, and Virginia Sisiopiku<br />
+          2019 IEEE International Conference on Big Data (Big Data). IEEE, 2019.<br />
+       </p>
+    </div>
+</div>
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>EasyRain: A User-Friendly Platform for Comparing Precipitation Nowcasting Models</strong><br />
+          Ji Cheng, <b>Guimu Guo</b>, Da Yan, Xiaotian Hao, and Wilfred Ng<br />
+          2019 IEEE International Conference on Big Data (Big Data). IEEE, 2019.<br />
+       </p>
+    </div>
+</div>
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>Realistic Transport Simulation with Open Data</strong><br />
+          <b>Guimu Guo</b>, Jalal Majed Khalil, Da Yan, and Virginia Sisiopiku<br />
+          2019 IEEE International Conference on Big Data (Big Data). IEEE, 2019.<br />
+       </p>
+    </div>
+</div>
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
           <strong>Parallel Clique-like Subgraph Counting and Listing
 </strong><br />
           Yi Yang, Da Yan, Shuigeng Zhou and <b>Guimu Guo</b><br />
