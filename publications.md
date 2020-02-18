@@ -8,6 +8,31 @@ and <a href="https://dblp.uni-trier.de/pers/hd/g/Guo:Guimu" target="_blank">DBLP
 <br />
 
 <h3>
+    <a name='2020'></a> 2020
+</h3>
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>G-thinker: A Distributed Framework for Mining Subgraphs in a Big Graph</strong><br />
+          Da YAN, <b>Guimu Guo</b>, Md Mashiur Rahman Chowdhury, Tamer Özsu, Wei-Shinn Ku, John C.S. Lui.<br />
+          The IEEE International Conference on Data Engineering(<b>ICDE 2020</b>)<br />
+       </p>
+    </div>
+</div>
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>PrefixFPM: A Parallel Framework for General-Purpose Frequent Pattern Mining</strong><br />
+          Da YAN, Wenwen Qu, <b>Guimu Guo</b>, Xiaoling Wang<br />
+          The IEEE International Conference on Data Engineering(<b>ICDE 2020</b>)<br />
+       </p>
+    </div>
+</div>
+
+
+
+<h3>
     <a name='2019'></a> 2019
 </h3>
 <div class="media">
