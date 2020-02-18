@@ -70,7 +70,7 @@ and <a href="https://dblp.uni-trier.de/pers/hd/g/Guo:Guimu" target="_blank">DBLP
           <strong>Parallel Clique-like Subgraph Counting and Listing
 </strong><br />
           Yi Yang, Da Yan, Shuigeng Zhou and <b>Guimu Guo</b><br />
-          ER 2019 – 38th International Conference on Conceptual Modeling<br />
+          ER 2019 – 38th International Conference on Conceptual Modeling (ER 2019)<br />
           <a href="https://info.cs.uab.edu/yanda/papers/er_clique.pdf">[PDF]</a> <br />
        </p>
     </div>
@@ -81,7 +81,7 @@ and <a href="https://dblp.uni-trier.de/pers/hd/g/Guo:Guimu" target="_blank">DBLP
           <strong>Scalable De Novo Genome Assembly Using a Pregel-Like Graph-Parallel System.
 </strong><br />
           <b>Guimu Guo</b>, Hongzhi Chen, Da Yan, James Cheng, Jake Y. Chen, Zechen Chong<br />
-          IEEE/ACM transactions on computational biology and bioinformatics<br />
+          IEEE/ACM transactions on computational biology and bioinformatics (TCBB 2019)<br />
           <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8731736">[PDF]</a> <br />
        </p>
     </div>
@@ -104,7 +104,7 @@ and <a href="https://dblp.uni-trier.de/pers/hd/g/Guo:Guimu" target="_blank">DBLP
        <p class="media-heading">
           <strong>Traffic crash prediction based on incremental learning algorithm</strong><br />
           Ping Sun, <b>Guimu Guo</b>, Rongjie Yu<br />
-          2017 IEEE 2nd International Conference on Big Data Analysis (<b>ICBDA</b>)<br />
+          2017 IEEE 2nd International Conference on Big Data Analysis (ICBDA)<br />
           <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8078803">[PDF]</a><br />
        </p>
     </div>
