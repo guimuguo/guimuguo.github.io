@@ -40,7 +40,7 @@ and <a href="https://dblp.uni-trier.de/pers/hd/g/Guo:Guimu" target="_blank">DBLP
        <p class="media-heading">
           <strong>Realistic Transport Simulation: Tackling the Small Data Challenge with Open Data</strong><br />
           <b>Guimu Guo</b>, Jalal Majed Khalil, Da Yan, and Virginia Sisiopiku<br />
-          2019 IEEE International Conference on Big Data (Big Data). IEEE, 2019.<br />
+          2019 IEEE International Conference on Big Data (BTSD @ IEEE BigData 2019)<br />
        </p>
     </div>
 </div>
@@ -50,7 +50,7 @@ and <a href="https://dblp.uni-trier.de/pers/hd/g/Guo:Guimu" target="_blank">DBLP
        <p class="media-heading">
           <strong>EasyRain: A User-Friendly Platform for Comparing Precipitation Nowcasting Models</strong><br />
           Ji Cheng, <b>Guimu Guo</b>, Da Yan, Xiaotian Hao, and Wilfred Ng<br />
-          2019 IEEE International Conference on Big Data (Big Data). IEEE, 2019.<br />
+          2019 IEEE International Conference on Big Data (IEEE BigData 2019)<br />
        </p>
     </div>
 </div>
@@ -60,7 +60,7 @@ and <a href="https://dblp.uni-trier.de/pers/hd/g/Guo:Guimu" target="_blank">DBLP
        <p class="media-heading">
           <strong>Realistic Transport Simulation with Open Data</strong><br />
           <b>Guimu Guo</b>, Jalal Majed Khalil, Da Yan, and Virginia Sisiopiku<br />
-          2019 IEEE International Conference on Big Data (Big Data). IEEE, 2019.<br />
+          2019 IEEE International Conference on Big Data (IEEE BigData 2019)<br />
        </p>
     </div>
 </div>
