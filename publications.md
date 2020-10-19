@@ -14,7 +14,7 @@ and <a href="https://dblp.uni-trier.de/pers/hd/g/Guo:Guimu" target="_blank">DBLP
     <div class="media-body">
        <p class="media-heading">
           <strong>Parallel Mining of Frequent Subtree Patterns</strong><br />
-           Wenwen Qu, Da Yan, <b>Guimu Guo</b>, Xiaoling Wang, Lei Zou, Yang Zhou.<br />
+           Wenwen Qu, Da Yan, <b>Guimu Guo</b>, Xiaoling Wang, Lei Zou, Yang Zhou<br />
           International Workshop on Large Scale Graph Data Analytics<br />
        </p>
     </div>
@@ -24,7 +24,7 @@ and <a href="https://dblp.uni-trier.de/pers/hd/g/Guo:Guimu" target="_blank">DBLP
     <div class="media-body">
        <p class="media-heading">
           <strong>G-thinker: A Distributed Framework for Mining Subgraphs in a Big Graph</strong><br />
-          Da YAN, <b>Guimu Guo</b>, Md Mashiur Rahman Chowdhury, Tamer Özsu, Wei-Shinn Ku, John C.S. Lui.<br />
+          Da YAN, <b>Guimu Guo</b>, Md Mashiur Rahman Chowdhury, Tamer Özsu, Wei-Shinn Ku, John C.S. Lui<br />
           The IEEE International Conference on Data Engineering (<b>ICDE 2020</b>)<br />
        </p>
     </div>
