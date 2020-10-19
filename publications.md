@@ -11,6 +11,21 @@ and <a href="https://dblp.uni-trier.de/pers/hd/g/Guo:Guimu" target="_blank">DBLP
     <a name='2020'></a> 2020
 </h3>
 
+
+Title of Contribution: Biological Network Mining
+
+(Encyclopedia of Big Data Technologies)
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>Modeling Transcriptional Regulation: Methods and Protocols</strong><br />
+          Zongliang Yue, Da Yan, <b>Guimu Guo</b>, Jake Yue Chen<br />
+          Biological Network Mining, Springer, 2020<br />
+       </p>
+    </div>
+</div>
+
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
