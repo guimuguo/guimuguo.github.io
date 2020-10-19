@@ -12,10 +12,6 @@ and <a href="https://dblp.uni-trier.de/pers/hd/g/Guo:Guimu" target="_blank">DBLP
 </h3>
 
 
-Title of Contribution: Biological Network Mining
-
-(Encyclopedia of Big Data Technologies)
-
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
