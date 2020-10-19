@@ -19,9 +19,9 @@ Title of Contribution: Biological Network Mining
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>Modeling Transcriptional Regulation: Methods and Protocols</strong><br />
+          <strong>Biological Network Mining</strong><br />
           Zongliang Yue, Da Yan, <b>Guimu Guo</b>, Jake Yue Chen<br />
-          Biological Network Mining, Springer, 2020<br />
+          Modeling Transcriptional Regulation: Methods and Protocols, Springer, 2020<br />
        </p>
     </div>
 </div>
