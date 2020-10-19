@@ -10,12 +10,23 @@ and <a href="https://dblp.uni-trier.de/pers/hd/g/Guo:Guimu" target="_blank">DBLP
 <h3>
     <a name='2020'></a> 2020
 </h3>
+
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
           <strong>Parallel Mining of Frequent Subtree Patterns</strong><br />
-           Wenwen Qu, Da Yan, <b>Guimu Guo</b>, Xiaoling Wang, Lei Zou, Yang Zhou<br />
+          Wenwen Qu, Da Yan, <b>Guimu Guo</b>, Xiaoling Wang, Lei Zou, Yang Zhou<br />
           International Workshop on Large Scale Graph Data Analytics<br />
+       </p>
+    </div>
+</div>
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>Accurate Tensor Decomposition with Simultaneous Rank Approximation for Surveillance Videos</strong><br />
+          Ramin Goudarzi Karim, <b>Guimu Guo</b>, Da Yan, Carmeliza Navasca<br />
+          The 54th Asilomar Conference on Signals, Systems and Computers<br />
        </p>
     </div>
 </div>
