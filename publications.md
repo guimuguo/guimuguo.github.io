@@ -30,7 +30,7 @@ and <a href="https://dblp.uni-trier.de/pers/hd/g/Guo:Guimu" target="_blank">DBLP
     <div class="media-body">
        <p class="media-heading">
           <strong>Systems and Algorithms for Massively Parallel Graph Mining </strong>(Tutorial)<br />
-          Guimu Guo and Da YAN<br />
+          <b>Guimu Guo</b> and Da YAN<br />
           2020 IEEE International Conference on Big Data (IEEE BigData 2020)<br />
        </p>
     </div>
