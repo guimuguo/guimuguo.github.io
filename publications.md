@@ -29,16 +29,6 @@ and <a href="https://dblp.uni-trier.de/pers/hd/g/Guo:Guimu" target="_blank">DBLP
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>Systems and Algorithms for Massively Parallel Graph Mining </strong>(Tutorial)<br />
-          Da Yan and <b>Guimu Guo</b><br />
-          2020 IEEE International Conference on Big Data (IEEE BigData 2020)<br />
-       </p>
-    </div>
-</div>
-
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
           <strong>G-thinker: A Distributed Framework for Mining Subgraphs in a Big Graph</strong><br />
           Da YAN, <b>Guimu Guo</b>, Md Mashiur Rahman Chowdhury, M. Tamer Özsu, Wei-Shinn Ku, John C.S. Lui<br />
           The IEEE International Conference on Data Engineering (<b>ICDE 2020</b>)<br />
@@ -55,6 +45,17 @@ and <a href="https://dblp.uni-trier.de/pers/hd/g/Guo:Guimu" target="_blank">DBLP
        </p>
     </div>
 </div>
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>Systems and Algorithms for Massively Parallel Graph Mining </strong>(Tutorial)<br />
+          Da Yan and <b>Guimu Guo</b><br />
+          2020 IEEE International Conference on Big Data (IEEE BigData 2020)<br />
+       </p>
+    </div>
+</div>
+
 
 <div class="media">
     <div class="media-body">
