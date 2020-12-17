@@ -39,6 +39,26 @@ and <a href="https://dblp.uni-trier.de/pers/hd/g/Guo:Guimu" target="_blank">DBLP
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
+          <strong>G-thinker: A Distributed Framework for Mining Subgraphs in a Big Graph</strong><br />
+          Da YAN, <b>Guimu Guo</b>, Md Mashiur Rahman Chowdhury, M. Tamer Özsu, Wei-Shinn Ku, John C.S. Lui<br />
+          The IEEE International Conference on Data Engineering (<b>ICDE 2020</b>)<br />
+       </p>
+    </div>
+</div>
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>PrefixFPM: A Parallel Framework for General-Purpose Frequent Pattern Mining</strong><br />
+          Da YAN, Wenwen Qu, <b>Guimu Guo</b>, Xiaoling Wang<br />
+          The IEEE International Conference on Data Engineering (<b>ICDE 2020</b>)<br />
+       </p>
+    </div>
+</div>
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
           <strong>Biological Network Mining</strong><br />
           Zongliang Yue, Da Yan, <b>Guimu Guo</b>, Jake Yue Chen<br />
           Modelling transcriptional Regulation, Methods in Molecular Biology, Springer, 2021<br />
@@ -62,26 +82,6 @@ and <a href="https://dblp.uni-trier.de/pers/hd/g/Guo:Guimu" target="_blank">DBLP
           <strong>Accurate Tensor Decomposition with Simultaneous Rank Approximation for Surveillance Videos</strong><br />
           Ramin Goudarzi Karim, <b>Guimu Guo</b>, Da Yan, Carmeliza Navasca<br />
           The 54th Asilomar Conference on Signals, Systems and Computers<br />
-       </p>
-    </div>
-</div>
-
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>G-thinker: A Distributed Framework for Mining Subgraphs in a Big Graph</strong><br />
-          Da YAN, <b>Guimu Guo</b>, Md Mashiur Rahman Chowdhury, M. Tamer Özsu, Wei-Shinn Ku, John C.S. Lui<br />
-          The IEEE International Conference on Data Engineering (<b>ICDE 2020</b>)<br />
-       </p>
-    </div>
-</div>
-
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>PrefixFPM: A Parallel Framework for General-Purpose Frequent Pattern Mining</strong><br />
-          Da YAN, Wenwen Qu, <b>Guimu Guo</b>, Xiaoling Wang<br />
-          The IEEE International Conference on Data Engineering (<b>ICDE 2020</b>)<br />
        </p>
     </div>
 </div>
