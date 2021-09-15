@@ -11,6 +11,35 @@ and <a href="https://dblp.uni-trier.de/pers/hd/g/Guo:Guimu" target="_blank">DBLP
     <a name='2021'></a> 2021
 </h3>
 
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>Biological Network Mining</strong><br />
+          Zongliang Yue, Da YAN, <b>Guimu Guo</b>, Jake Chen<br />
+          Modeling Transcriptional Regulation - Methods and Protocols, 2021<br />
+       </p>
+    </div>
+</div>
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>G-thinker: A General Distributed Framework for Finding Qualified Subgraphs in a Big Graph with Load Balancing</strong><br />
+          Da YAN, <b>Guimu Guo</b>, Jalal Khalil, M. Tamer Ozsu, Wei-Shinn Ku, John C.S. Lui<br />
+          VLDB Journal 2021<br />
+       </p>
+    </div>
+</div>
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>PrefixFPM: A Parallel Framework for General-Purpose Mining of Frequent and Closed Patterns</strong><br />
+          Da YAN, Wenwen Qu, <b>Guimu Guo</b>, Xiaoling Wang, Yang Zhou<br />
+          VLDB Journal 2021<br />
+       </p>
+    </div>
+</div>
 
 <div class="media">
     <div class="media-body">
