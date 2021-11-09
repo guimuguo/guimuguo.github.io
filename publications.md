@@ -56,7 +56,7 @@ and <a href="https://dblp.uni-trier.de/pers/hd/g/Guo:Guimu" target="_blank">DBLP
        <p class="media-heading">
           <strong>Scalable Mining of Maximal Quasi-Cliques: An Algorithm-System Codesign Approach</strong><br />
           <b>Guimu Guo</b>, Da Yan, M. Tamer Özsu, Zhe Jiang, Jalal Majed Khalil<br />
-          Proceedings of the VLDB Endowment (PVLDB 2021)<br />
+          Proceedings of the VLDB Endowment (<b>PVLDB 2021</b>)<br />
        </p>
     </div>
 </div>
