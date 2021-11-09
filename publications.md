@@ -25,8 +25,8 @@ and <a href="https://dblp.uni-trier.de/pers/hd/g/Guo:Guimu" target="_blank">DBLP
     <div class="media-body">
        <p class="media-heading">
           <strong>Biological Network Mining</strong><br />
-          Zongliang Yue, Da YAN, <b>Guimu Guo</b>, Jake Chen<br />
-          Modeling Transcriptional Regulation - Methods and Protocols, 2021<br />
+          Zongliang Yue, Da Yan, <b>Guimu Guo</b>, Jake Yue Chen<br />
+          Modelling transcriptional Regulation, Methods in Molecular Biology, Springer, 2021<br />
        </p>
     </div>
 </div>
@@ -101,16 +101,6 @@ and <a href="https://dblp.uni-trier.de/pers/hd/g/Guo:Guimu" target="_blank">DBLP
           <strong>Parallel Mining of Frequent Subtree Patterns</strong><br />
           Wenwen Qu, Da Yan, <b>Guimu Guo</b>, Xiaoling Wang, Lei Zou, Yang Zhou<br />
           International Workshop on Large Scale Graph Data Analytics (LSGDA@VLDB 2020)<br />
-       </p>
-    </div>
-</div>
-
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>Biological Network Mining</strong><br />
-          Zongliang Yue, Da Yan, <b>Guimu Guo</b>, Jake Yue Chen<br />
-          Modelling transcriptional Regulation, Methods in Molecular Biology, Springer, 2021<br />
        </p>
     </div>
 </div>
