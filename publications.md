@@ -14,6 +14,16 @@ and <a href="https://dblp.uni-trier.de/pers/hd/g/Guo:Guimu" target="_blank">DBLP
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
+          <strong>Parallel Mining of Large Maximal Quasi-Cliques</strong><br />
+          Jalal Khalil, Da Yan, <b>Guimu Guo</b>, Lyuheng Yuan<br />
+          VLDB Journal 2021<br />
+       </p>
+    </div>
+</div>
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
           <strong>Biological Network Mining</strong><br />
           Zongliang Yue, Da YAN, <b>Guimu Guo</b>, Jake Chen<br />
           Modeling Transcriptional Regulation - Methods and Protocols, 2021<br />
