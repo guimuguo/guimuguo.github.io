@@ -14,6 +14,16 @@ and <a href="https://dblp.uni-trier.de/pers/hd/g/Guo:Guimu" target="_blank">DBLP
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
+          <strong>Scalable Mining of Maximal Quasi-Cliques: An Algorithm-System Codesign Approach</strong><br />
+          <b>Guimu Guo</b>, Da Yan, M. Tamer Özsu, Zhe Jiang, Jalal Majed Khalil<br />
+          Proceedings of the VLDB Endowment (<b>PVLDB 2021</b>)<br />
+       </p>
+    </div>
+</div>
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
           <strong>Parallel Mining of Large Maximal Quasi-Cliques</strong><br />
           Jalal Khalil, Da Yan, <b>Guimu Guo</b>, Lyuheng Yuan<br />
           VLDB Journal 2021<br />
@@ -57,16 +67,6 @@ and <a href="https://dblp.uni-trier.de/pers/hd/g/Guo:Guimu" target="_blank">DBLP
           <strong>PrefixFPM: A Parallel Framework for General-Purpose Mining of Frequent and Closed Patterns</strong><br />
           Da YAN, Wenwen Qu, <b>Guimu Guo</b>, Xiaoling Wang, Yang Zhou<br />
           VLDB Journal 2021<br />
-       </p>
-    </div>
-</div>
-
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>Scalable Mining of Maximal Quasi-Cliques: An Algorithm-System Codesign Approach</strong><br />
-          <b>Guimu Guo</b>, Da Yan, M. Tamer Özsu, Zhe Jiang, Jalal Majed Khalil<br />
-          Proceedings of the VLDB Endowment (<b>PVLDB 2021</b>)<br />
        </p>
     </div>
 </div>
