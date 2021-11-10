@@ -24,6 +24,16 @@ and <a href="https://dblp.uni-trier.de/pers/hd/g/Guo:Guimu" target="_blank">DBLP
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
+          <strong>Traffic Study of Shared Micromobility Services by Transportation Simulation</strong><br />
+          Jalal Khalil, Da Yan,  <b>Guimu Guo</b>, Mirza Tanzim Sami, Joy Bhadhan Roy, Virginia Sisiopiku<br />
+          BTSD@IEEE BigData 2021<br />
+       </p>
+    </div>
+</div>
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
           <strong>Biological Network Mining</strong><br />
           Zongliang Yue, Da Yan, <b>Guimu Guo</b>, Jake Yue Chen<br />
           Modelling transcriptional Regulation, Methods in Molecular Biology, Springer, 2021<br />
