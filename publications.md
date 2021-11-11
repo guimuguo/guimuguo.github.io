@@ -24,6 +24,26 @@ and <a href="https://dblp.uni-trier.de/pers/hd/g/Guo:Guimu" target="_blank">DBLP
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
+          <strong>G-thinker: A General Distributed Framework for Finding Qualified Subgraphs in a Big Graph with Load Balancing</strong><br />
+          Da YAN, <b>Guimu Guo</b>, Jalal Khalil, M. Tamer Ozsu, Wei-Shinn Ku, John C.S. Lui<br />
+          VLDB Journal 2021<br />
+       </p>
+    </div>
+</div>
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>PrefixFPM: A Parallel Framework for General-Purpose Mining of Frequent and Closed Patterns</strong><br />
+          Da YAN, Wenwen Qu, <b>Guimu Guo</b>, Xiaoling Wang, Yang Zhou<br />
+          VLDB Journal 2021<br />
+       </p>
+    </div>
+</div>
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
           <strong>Parallel Mining of Large Maximal Quasi-Cliques</strong><br />
           Jalal Khalil, Da Yan, <b>Guimu Guo</b>, Lyuheng Yuan<br />
           VLDB Journal 2021<br />
@@ -44,29 +64,29 @@ and <a href="https://dblp.uni-trier.de/pers/hd/g/Guo:Guimu" target="_blank">DBLP
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
+          <strong>Realistic Transport Simulation for Studying the Impacts of Shared Micromobility Services</strong><br />
+          Jalal Khalil, Da YAN, <b>Guimu Guo</b>, Mirza Tanzim Sami, Joy Bhadhan Roy, Virginia P. Sisiopiku<br />
+          IEEE BigData 2021<br />
+       </p>
+    </div>
+</div>
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>Drone-Based Tower Survey by Multi-Task Learning</strong><br />
+          Mirza Tanzim Sami, Da YAN, Huang Huang, Xinyu Liang, <b>Guimu Guo</b>, and Zhe Jiang<br />
+          IEEE BigData 2021<br />
+       </p>
+    </div>
+</div>
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
           <strong>Biological Network Mining</strong><br />
           Zongliang Yue, Da Yan, <b>Guimu Guo</b>, Jake Yue Chen<br />
           Modelling transcriptional Regulation, Methods in Molecular Biology, Springer, 2021<br />
-       </p>
-    </div>
-</div>
-
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>G-thinker: A General Distributed Framework for Finding Qualified Subgraphs in a Big Graph with Load Balancing</strong><br />
-          Da YAN, <b>Guimu Guo</b>, Jalal Khalil, M. Tamer Ozsu, Wei-Shinn Ku, John C.S. Lui<br />
-          VLDB Journal 2021<br />
-       </p>
-    </div>
-</div>
-
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>PrefixFPM: A Parallel Framework for General-Purpose Mining of Frequent and Closed Patterns</strong><br />
-          Da YAN, Wenwen Qu, <b>Guimu Guo</b>, Xiaoling Wang, Yang Zhou<br />
-          VLDB Journal 2021<br />
        </p>
     </div>
 </div>
