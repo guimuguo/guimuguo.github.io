@@ -14,16 +14,6 @@ and <a href="https://dblp.uni-trier.de/pers/hd/g/Guo:Guimu" target="_blank">DBLP
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>Scalable Mining of Maximal Quasi-Cliques: An Algorithm-System Codesign Approach</strong><br />
-          <b>Guimu Guo</b>, Da Yan, M. Tamer Özsu, Zhe Jiang, Jalal Majed Khalil<br />
-          Proceedings of the VLDB Endowment (<b>PVLDB 2021</b>)<br />
-       </p>
-    </div>
-</div>
-
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
           <strong>G-thinker: A General Distributed Framework for Finding Qualified Subgraphs in a Big Graph with Load Balancing</strong><br />
           Da YAN, <b>Guimu Guo</b>, Jalal Khalil, M. Tamer Ozsu, Wei-Shinn Ku, John C.S. Lui<br />
           VLDB Journal 2021<br />
@@ -94,6 +84,16 @@ and <a href="https://dblp.uni-trier.de/pers/hd/g/Guo:Guimu" target="_blank">DBLP
 <h3>
     <a name='2020'></a> 2020
 </h3>
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>Scalable Mining of Maximal Quasi-Cliques: An Algorithm-System Codesign Approach</strong><br />
+          <b>Guimu Guo</b>, Da Yan, M. Tamer Özsu, Zhe Jiang, Jalal Majed Khalil<br />
+          Proceedings of the VLDB Endowment (<b>PVLDB 2020</b>)<br />
+       </p>
+    </div>
+</div>
 
 <div class="media">
     <div class="media-body">
