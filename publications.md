@@ -8,6 +8,21 @@ and <a href="https://dblp.uni-trier.de/pers/hd/g/Guo:Guimu" target="_blank">DBLP
 <br />
 
 <h3>
+    <a name='2022'></a> 2022
+</h3>
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>Think Like a Task Programming Model</strong><br />
+          Da YAN, <b>Guimu Guo</b><br />
+          Encyclopedia of Big Data Technologies<br />
+       </p>
+    </div>
+</div>
+
+
+<h3>
     <a name='2021'></a> 2021
 </h3>
 
