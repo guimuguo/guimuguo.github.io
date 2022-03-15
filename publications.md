@@ -14,6 +14,16 @@ and <a href="https://dblp.uni-trier.de/pers/hd/g/Guo:Guimu" target="_blank">DBLP
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
+          <strong>Parallel Graph Processing</strong><br />
+          Da YAN, Yang Zhou, <b>Guimu Guo</b><br />
+          Encyclopedia of Big Data Technologies<br />
+       </p>
+    </div>
+</div>
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
           <strong>Think Like a Task Programming Model</strong><br />
           Da YAN, <b>Guimu Guo</b><br />
           Encyclopedia of Big Data Technologies<br />
