@@ -14,6 +14,26 @@ and <a href="https://dblp.uni-trier.de/pers/hd/g/Guo:Guimu" target="_blank">DBLP
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
+          <strong>Maximal Directed Quasi-Clique Mining</strong><br />
+          <b>Guimu Guo</b>, Da Yan, Lyuheng Yuan, Jalal Khalil, Cheng Long, Zhe Jiang, Yang Zhou<br />
+          The IEEE International Conference on Data Engineering (<b>ICDE 2022</b>)<br />
+       </p>
+    </div>
+</div>
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>Distributed Task-Based Training of Tree Models</strong><br />
+          Da Yan, Md Mashiur Rahma Chowdhury, <b>Guimu Guo</b>, Jalal Kahlil, Zhe Jiang, Sushil Prasad<br />
+          The IEEE International Conference on Data Engineering (<b>ICDE 2022</b>)<br />
+       </p>
+    </div>
+</div>
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
           <strong>Parallel Graph Processing</strong><br />
           Da YAN, Yang Zhou, <b>Guimu Guo</b><br />
           Encyclopedia of Big Data Technologies<br />
