@@ -51,17 +51,12 @@ and <a href="https://dblp.uni-trier.de/pers/hd/g/Guo:Guimu" target="_blank">DBLP
     </div>
 </div>
 
-
-<h3>
-    <a name='2021'></a> 2021
-</h3>
-
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
           <strong>G-thinker: A General Distributed Framework for Finding Qualified Subgraphs in a Big Graph with Load Balancing</strong><br />
           Da YAN, <b>Guimu Guo</b>, Jalal Khalil, M. Tamer Ozsu, Wei-Shinn Ku, John C.S. Lui<br />
-          VLDB Journal 2021<br />
+          VLDB Journal 2022<br />
        </p>
     </div>
 </div>
@@ -71,7 +66,7 @@ and <a href="https://dblp.uni-trier.de/pers/hd/g/Guo:Guimu" target="_blank">DBLP
        <p class="media-heading">
           <strong>PrefixFPM: A Parallel Framework for General-Purpose Mining of Frequent and Closed Patterns</strong><br />
           Da YAN, Wenwen Qu, <b>Guimu Guo</b>, Xiaoling Wang, Yang Zhou<br />
-          VLDB Journal 2021<br />
+          VLDB Journal 2022<br />
        </p>
     </div>
 </div>
@@ -81,10 +76,15 @@ and <a href="https://dblp.uni-trier.de/pers/hd/g/Guo:Guimu" target="_blank">DBLP
        <p class="media-heading">
           <strong>Parallel Mining of Large Maximal Quasi-Cliques</strong><br />
           Jalal Khalil, Da Yan, <b>Guimu Guo</b>, Lyuheng Yuan<br />
-          VLDB Journal 2021<br />
+          VLDB Journal 2022<br />
        </p>
     </div>
 </div>
+
+
+<h3>
+    <a name='2021'></a> 2021
+</h3>
 
 <div class="media">
     <div class="media-body">
