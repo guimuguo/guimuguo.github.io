@@ -23,6 +23,7 @@ navbar-links:
   Home: "index"
   Publications: "publications"
   Project: "projects"
+  Course: "course.html"
   #Resume: "guimuguo_cv.pdf"
   
 
