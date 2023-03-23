@@ -8,6 +8,20 @@ and <a href="https://dblp.uni-trier.de/pers/hd/g/Guo:Guimu" target="_blank">DBLP
 <br />
 
 <h3>
+    <a name='2023'></a> 2023
+</h3>
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>Accelerating k-Core Decomposition by a GPU.</strong><br />
+          Akhlaque Ahmad, Lyuheng Yuan, Da Yan, <b>Guimu Guo</b>, Jieyang Chen, Chengcui Zhang. <br />
+          The IEEE International Conference on Data Engineering (<b>ICDE 2023</b>)<br />
+       </p>
+    </div>
+</div>
+
+<h3>
     <a name='2022'></a> 2022
 </h3>
 
