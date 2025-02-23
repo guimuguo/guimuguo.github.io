@@ -22,9 +22,10 @@ description: Rowan University
 navbar-links:
   Home: "index"
   Publications: "publications"
-  Project: "projects"
+  Team: "team"
   Course: "course.html"
   Recruitment: "GuimuGuoRecruit.pdf"
+  #Project: "projects"
   #Resume: "guimuguo_cv.pdf"
   
 
