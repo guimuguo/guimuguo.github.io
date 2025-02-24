@@ -42,8 +42,8 @@ Welcome to the students page!
 </div>
 
 ---
-
+<!-- 
 ## Alumni
 
-<!-- Add your alumni information below in similar format -->
+Add your alumni information below in similar format -->
 
