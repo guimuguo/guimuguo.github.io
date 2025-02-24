@@ -3,8 +3,6 @@ layout: page
 title: Students
 ---
 
-# Students
-
 Welcome to the students page! 
 
 ## PhD Students
