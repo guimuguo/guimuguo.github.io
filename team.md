@@ -51,7 +51,7 @@ Welcome to the students page!
 <p>(as recorded by start year)</p>
 <p><strong> 2022: </strong> Brian Campana, Mary Lisicki, Michael Loughrin </p>
 
-<p><strong> 2022: </strong> Spencer Lee, Nicholas Lunt </p>
+<p><strong> 2023: </strong> Collin Meeker, Spencer Lee, Nicholas Lunt </p>
 
 <!-- 
 ## Alumni
