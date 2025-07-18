@@ -1,8 +1,3 @@
----
-layout: page
-title: Students
----
-
 Welcome to the students page! 
 
 ## PhD Students
@@ -50,6 +45,12 @@ Welcome to the students page!
 
 ---
 
+<h1 align="center">Alumni</h1>
+
+## Undergraduate Students (as recorded by start year)
+<p><strong> 2022: </strong> Brian Campana, Mary Lisicki, Michael Loughrin </p>
+
+<p><strong> 2022: </strong> Spencer Lee, Nicholas Lunt </p>
 
 <!-- 
 ## Alumni
