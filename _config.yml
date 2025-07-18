@@ -24,7 +24,7 @@ navbar-links:
   Publications: "publications"
   Team: "team"
   Course: "course.html"
-  Recruitment: "GuimuGuoRecruit.pdf"
+  #Recruitment: "GuimuGuoRecruit.pdf"
   #Project: "projects"
   #Resume: "guimuguo_cv.pdf"
   
