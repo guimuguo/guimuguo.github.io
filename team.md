@@ -40,6 +40,17 @@ Welcome to the students page!
 </div>
 
 ---
+## High School Students
+
+<div class="student-card">
+  <img src="/img/highSchool.jpeg" width="150" height="150" class="student-photo" />
+  <p><strong> Mentored Rowan University's STEAM Academy high school students: Dan DeSilvio, Phoenix Holland, and Dominique Stith </strong> </p>
+  <p><strong>Year:</strong> 2025 Summer</p>
+</div>
+
+---
+
+
 <!-- 
 ## Alumni
 
