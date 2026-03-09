@@ -7,9 +7,35 @@ You can also browse my <a href="https://scholar.google.com/citations?user=y4G5zE
 and <a href="https://dblp.uni-trier.de/pers/hd/g/Guo:Guimu" target="_blank">DBLP profile</a>.
 <br />
 
-<h3>
-    <a name='2023'></a> 2023
-</h3>
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>Bound-Tightened Densest Subgraph Discovery on GPU.</strong><br />
+          Wajid Manzoor, Ke Fan, Muhammad Shaheer, and <b>Guimu Guo</b> <br />
+        ACM SIGMOD International Conference on Management of Data (<b>SIGMOD 2025</b>)<br />
+       </p>
+    </div>
+</div>
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>GPU-Accelerated Maximal Quasi-Clique Mining.</strong><br />
+          Michael Greenbaum, Ke Fan, Wajid Manzoor, and <b>Guimu Guo</b> <br />
+        IEEE International Conference on Big Data (<b>IEEE BigData 2025</b>)<br />
+       </p>
+    </div>
+</div>
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>G-Thinkerq: A General Subgraph Querying System With a Unified Task-Based Programming Model.</strong><br />
+          Lyuheng Yuan, <b>Guimu Guo</b>, Da Yan, Saugat Adhikari, Jalal Khalil, Cheng Long, Lei Zou <br />
+          IEEE Transactions on Knowledge and Data Engineering (<b>TKDE 2025</b>)<br />
+       </p>
+    </div>
+</div>
 
 <div class="media">
     <div class="media-body">
@@ -21,9 +47,6 @@ and <a href="https://dblp.uni-trier.de/pers/hd/g/Guo:Guimu" target="_blank">DBLP
     </div>
 </div>
 
-<h3>
-    <a name='2022'></a> 2022
-</h3>
 
 <div class="media">
     <div class="media-body">
@@ -96,9 +119,6 @@ and <a href="https://dblp.uni-trier.de/pers/hd/g/Guo:Guimu" target="_blank">DBLP
 </div>
 
 
-<h3>
-    <a name='2021'></a> 2021
-</h3>
 
 <div class="media">
     <div class="media-body">
@@ -140,9 +160,7 @@ and <a href="https://dblp.uni-trier.de/pers/hd/g/Guo:Guimu" target="_blank">DBLP
     </div>
 </div>
 
-<h3>
-    <a name='2020'></a> 2020
-</h3>
+
 
 <div class="media">
     <div class="media-body">
@@ -206,9 +224,7 @@ and <a href="https://dblp.uni-trier.de/pers/hd/g/Guo:Guimu" target="_blank">DBLP
 
 
 
-<h3>
-    <a name='2019'></a> 2019
-</h3>
+
 
 <div class="media">
     <div class="media-body">
@@ -274,9 +290,7 @@ and <a href="https://dblp.uni-trier.de/pers/hd/g/Guo:Guimu" target="_blank">DBLP
     </div>
 </div>
 
-<h3>
-    <a name='2017'></a> 2017
-</h3>
+
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
