@@ -14,6 +14,11 @@ Welcome to the students page!
   <p><strong>Year Joined:</strong> 2025 Spring</p>
 </div>
 
+<div class="student-card">
+  <h3>Roopaswi Vinjamuri</h3>
+  <p><strong>Year Joined:</strong> 2026 Fall</p>
+</div>
+
 ---
 
 ## Master Students
