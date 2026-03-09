@@ -6,12 +6,13 @@ title: Publications
 You can also browse my <a href="https://scholar.google.com/citations?user=y4G5zEkAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar profile</a>
 and <a href="https://dblp.uni-trier.de/pers/hd/g/Guo:Guimu" target="_blank">DBLP profile</a>.
 <br />
+<p>* Corresponding author</p> <br />
 
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
           <strong>Bound-Tightened Densest Subgraph Discovery on GPU.</strong><br />
-          Wajid Manzoor, Ke Fan, Muhammad Shaheer, and <b>Guimu Guo</b> <br />
+          Wajid Manzoor, Ke Fan, Muhammad Shaheer, and <b>Guimu Guo*</b> <br />
         ACM SIGMOD International Conference on Management of Data (<b>SIGMOD 2026</b>)<br />
        </p>
     </div>
@@ -21,7 +22,7 @@ and <a href="https://dblp.uni-trier.de/pers/hd/g/Guo:Guimu" target="_blank">DBLP
     <div class="media-body">
        <p class="media-heading">
           <strong>GPU-Accelerated Maximal Quasi-Clique Mining.</strong><br />
-          Michael Greenbaum, Ke Fan, Wajid Manzoor, and <b>Guimu Guo</b> <br />
+          Michael Greenbaum, Ke Fan, Wajid Manzoor, and <b>Guimu Guo*</b> <br />
         IEEE International Conference on Big Data (<b>IEEE BigData 2025</b>)<br />
        </p>
     </div>
