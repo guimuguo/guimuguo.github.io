@@ -5,8 +5,8 @@ title: Publications
 
 You can also browse my <a href="https://scholar.google.com/citations?user=y4G5zEkAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar profile</a>
 and <a href="https://dblp.uni-trier.de/pers/hd/g/Guo:Guimu" target="_blank">DBLP profile</a>.
+<p>* Corresponding author</p> 
 <br />
-<p>* Corresponding author</p> <br />
 
 <div class="media">
     <div class="media-body">
