@@ -12,7 +12,7 @@ and <a href="https://dblp.uni-trier.de/pers/hd/g/Guo:Guimu" target="_blank">DBLP
        <p class="media-heading">
           <strong>Bound-Tightened Densest Subgraph Discovery on GPU.</strong><br />
           Wajid Manzoor, Ke Fan, Muhammad Shaheer, and <b>Guimu Guo</b> <br />
-        ACM SIGMOD International Conference on Management of Data (<b>SIGMOD 2025</b>)<br />
+        ACM SIGMOD International Conference on Management of Data (<b>SIGMOD 2026</b>)<br />
        </p>
     </div>
 </div>
