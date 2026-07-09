@@ -11,6 +11,16 @@ and <a href="https://dblp.uni-trier.de/pers/hd/g/Guo:Guimu" target="_blank">DBLP
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
+          <strong>A Continuous Design Space for MPI All-to-All Collective with Tunable Parameters.</strong><br />
+          Ke Fan, <b>Guimu Guo</b>, and Sidharth Kumar <br />
+        EuroMPI 2026<br />
+       </p>
+    </div>
+</div>
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
           <strong>Bound-Tightened Densest Subgraph Discovery on GPU.</strong><br />
           Wajid Manzoor, Ke Fan, Muhammad Shaheer, and <b>Guimu Guo*</b> <br />
         ACM SIGMOD International Conference on Management of Data (<b>SIGMOD 2026</b>)<br />
