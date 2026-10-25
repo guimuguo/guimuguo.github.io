@@ -15,7 +15,8 @@ Welcome to the students page!
 </div>
 
 <div class="student-card">
-  <h3>Roopaswi Vinjamuri</h3>
+  <h3><a href="https://www.linkedin.com/in/roopaswi-vinjamuri-65a768215/" class="student-name">Roopaswi Vinjamuri</a></h3>
+  <img src="/img/Roopa.jpg" width="150" height="150" class="student-photo" />
   <p><strong>Year Joined:</strong> 2026 Fall</p>
 </div>
 
